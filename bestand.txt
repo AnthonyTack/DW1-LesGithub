@@ -1,1 +1,4 @@
-Programmeren is het schrijven van code om een computer opdrachten te laten uitvoeren. programmeertalen zoals C# en HTML kun je websites, apps en software maken. 
+Programmeren is het schrijven van code om een computer opdrachten te laten uitvoeren. 
+Programmeertalen zoals C# en HTML kun je websites, apps en software maken. 
+Ik ben Anthony
+
